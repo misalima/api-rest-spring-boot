@@ -1,4 +1,4 @@
-# REST API using Java, with Spring Boot
+# RESTful API using Java, with Spring Boot
 
 This is a super simple api that implements CRUD operations. It saves data in a Java List<> object, and uses JSON requests to exchange data. 
 
